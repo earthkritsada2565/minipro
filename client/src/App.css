@@ -1,0 +1,17 @@
+
+
+.green-button{
+  background-color: greenyellow;
+}
+
+.yellow-button{
+  background-color: rgb(245, 245, 149);
+}
+
+.center-mg {
+  margin: auto;  
+  width: 50%;   
+  border: 3px solid greenyellow;   
+  padding: 3%;  
+}
+
